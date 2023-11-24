@@ -27,3 +27,4 @@ The "[Failed Banks Analytics](https://github.com/OLUJUWON-OMOTOBA/Project-6/blob
 
 
 The "Failed Banks Analytics" Power BI project serves as a powerful tool for understanding the dynamics of bank failures, identifying patterns, and potentially predicting future trends. It provides stakeholders with the information needed to make informed decisions in the context of the financial landscape.
+![image](https://github.com/OLUJUWON-OMOTOBA/Project-6/assets/134015058/7d8405ce-75e3-45ba-800c-9e28480d38f9)
